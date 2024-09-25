@@ -20,8 +20,8 @@ display_banner()
 
 # Terminal header settings and information
 os.system('color 0A')
-print("Developer   :   KARTHIK LAL (https://karthiklal.in)")
-print("Created Date:   2023-10-12")
+print("Developer   :   ninja (https://ninja.in)")
+print("Created Date:   2024-09-25")
 print('Project     :   DDOS-Attack')
 print('Purpose     :   A simple DDOS-Attack tool to test your network security')
 print('Caution     :   This tool is only for educational purpose. Do not use this for illegal purposes.')
